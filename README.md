@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **Python & Computer Vision**
 
-- 👯 I’m looking to collaborate on [DRONE PATROLLING AND EMERGENCY ASSESSMENT BASED ON IMAGE SCANNING]((project link coming soon))
+- 👯 I’m looking to collaborate on DRONE PATROLLING AND EMERGENCY ASSESSMENT BASED ON IMAGE SCANNING
 
-- 🤝 I’m looking for help with [AI-driven web and mobile integrations]((project link coming soon))
+- 🤝 I’m looking for help with AI-driven web and mobile integrations
 
 - 👨‍💻 All of my projects are available at [https://www.razdevplus.com](https://www.razdevplus.com)
-
-- 📝 I regularly write articles on [(Coming soon)]((Coming soon))
 
 - 💬 Ask me about **Next.js, React, Android, Java**
 
